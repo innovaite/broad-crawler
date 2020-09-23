@@ -1,0 +1,2 @@
+#!/bin/bash
+sed 's/^/{"index": {"_index": "stories"}}\n/g'
